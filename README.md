@@ -5,6 +5,7 @@
 2. copy .env.example
 3. php artisan storage:link
 4. php artisan migrate --seed
+5. php artisan serve
 ```
 
 ##
